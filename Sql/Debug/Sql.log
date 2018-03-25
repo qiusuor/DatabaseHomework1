@@ -1,0 +1,6 @@
+﻿  源.cpp
+c:\users\qiusuo\source\repos\sql\sql\源.cpp(16): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\qiusuo\source\repos\sql\sql\源.cpp(22): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\qiusuo\source\repos\sql\sql\源.cpp(27): warning C4018: “<”: 有符号/无符号不匹配
+  Sql.vcxproj -> C:\Users\qiusuo\source\repos\Sql\Debug\Sql.exe
+  Sql.vcxproj -> C:\Users\qiusuo\source\repos\Sql\Debug\Sql.pdb (Partial PDB)
